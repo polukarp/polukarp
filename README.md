@@ -6,4 +6,4 @@
 
 - 💞️ I'm looking to collaborate on projects that are challenging and allow me to learn new things. If you have an idea for a project or just want to chat about programming, don't hesitate to reach out to me!
 
-- 📫 You can reach me via email at [perzhul.works@gmail.com], or connect with me on Telegram at [https://t.me/polukarp]. I'm always open to new opportunities and connections, so don't be shy!
+- 📫 You can reach me via email at perzhul.works@gmail.com, or connect with me on Telegram at https://t.me/polukarp. I'm always open to new opportunities and connections, so don't be shy!
